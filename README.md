@@ -10,7 +10,7 @@ The primary goal is to develop an interactive Tableau dashboard that delivers in
 ### Objective
 The project analyzes electric vehicle adoption, identifying trends in registrations, popular EV models, and charging station placement. It builds a Tableau Dashboard to allow interactive exploration of the data and its patterns.
 
-Tableau Dashboard:  https://public.tableau.com/app/profile/asmita.deshpande/viz/ElectricVehicleDataAnalysis_17272128962490/ElectricVehicleDataAnalysis
+Tableau Dashboard Link:  https://public.tableau.com/app/profile/asmita.deshpande/viz/ElectricVehicleDataAnalysis_17272128962490/ElectricVehicleDataAnalysis
 
 ---
 
